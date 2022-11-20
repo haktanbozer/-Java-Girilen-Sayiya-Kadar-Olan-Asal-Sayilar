@@ -1,0 +1,1 @@
+# -Java-Girilen-Sayiya-Kadar-Olan-Asal-Sayilar
